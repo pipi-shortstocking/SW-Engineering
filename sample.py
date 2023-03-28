@@ -1,4 +1,4 @@
-print('Hello, My name is KIM')
+print('Hello, My name is KIM J Y')
 print('Have a nice day!')
 
 for i in range(3):
