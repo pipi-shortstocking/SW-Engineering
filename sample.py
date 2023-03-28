@@ -1,5 +1,5 @@
 print('Hello, My name is KIM J Y')
 print('Have a nice day!')
 
-for i in range(3):
+for i in range(1, 3):
     print(i, end=' ')
